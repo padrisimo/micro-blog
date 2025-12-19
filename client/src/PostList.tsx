@@ -1,4 +1,4 @@
-import React, { useState, useEffectEvent, useEffect } from 'react'
+import { useState, useEffectEvent, useEffect } from 'react'
 import axios from 'axios'
 import CommentCreate from './CommentCreate.tsx'
 import CommentList from './CommentList.tsx'
